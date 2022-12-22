@@ -19,6 +19,12 @@ This tool is intended for educational and research purposes only. It is not inte
 
 
 ## Changelog
+
+### version 1.2
+- added storing tokens in txt file
+- added a try statement to send webhook
+- added anti duplicate for the txt file
+
 ### version 1.1
 - added the sending ip
 - added redirect to /app instead of just discord
