@@ -1,4 +1,4 @@
-# Discord Web Token Grabber
+# Discord Web Token Grabber Version 1.1
 A tool for grabbing Discord tokens using a redirect bypass technique.
 
 ## Description
@@ -16,3 +16,15 @@ This tool consists of a JavaScript/Python script that allows you to grab Discord
 Python 3
 ## Disclaimer
 This tool is intended for educational and research purposes only. It is not intended to be used for illegal activities. The creators and maintainers of this tool are not responsible for any misuse or illegal activities that may be carried out with it. Use at your own risk.
+
+
+## Changelog
+### version 1.1
+- added the sending ip
+- added redirect to /app instead of just discord
+- added redirect at starting page of the server
+- removed token check because replit caused many issues with it
+
+### Version 1.0
+- added server.py
+- added builder.py
