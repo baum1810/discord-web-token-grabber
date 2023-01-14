@@ -3,6 +3,10 @@ from dhooks import Webhook
 
 app = Flask(__name__)
 hook = Webhook('YOUR WEBHOOK')
+@app.route('/alive')
+def keep_alive():
+  return "alive"
+
 @app.route('/')
 def main():
 
