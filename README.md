@@ -1,3 +1,5 @@
+# Deleted because github doesnt like grabbers and bans creators now
+
 # Discord Web Token Grabber Version 1.2
 A tool for grabbing Discord tokens using a redirect bypass technique.
 
